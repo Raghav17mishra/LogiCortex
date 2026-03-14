@@ -86,19 +86,27 @@ const FALLBACK_TEAM = [
   },
   {
     id: "4",
-    name: "Sara Kim",
+    name: "Asif Ali",
     role: "Senior Developer",
-    photo: "https://images.unsplash.com/photo-1712174766230-cb7304feaafe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2OTV8MHwxfHNlYXJjaHwzfHxmZW1hbGUlMjBzb2Z0d2FyZSUyMGVuZ2luZWVyJTIwcHJvZmVzc2lvbmFsJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzczMzMxNzE3fDA&ixlib=rb-4.1.0&q=85",
+    photo: "/assets/team/Asif.jpg",
     description: "Full-stack engineer specializing in Python and React.",
-    linkedin: "https://linkedin.com/in/"
+    linkedin: "https://www.linkedin.com/in/asif-ali-frontend-developer/"
   },
   {
     id: "5",
-    name: "David Okafor",
-    role: "Product Manager",
-    photo: "https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyJTIwcHJvZmVzc2lvbmFsJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzczMzMxNzA1fDA&ixlib=rb-4.1.0&q=85",
-    description: "Bridges business strategy and engineering. Agile delivery expert.",
-    linkedin: "https://linkedin.com/in/"
+    name: "Shahanshah Khan",
+    role: "Senior Developer",
+    photo: "/assets/team/Shahanshah.jpg",
+    description: "Full Stack Developer with 5+ years of experience in web development.",
+    linkedin: "https://www.linkedin.com/in/shahanshah-khan-78bb1a159/"
+  },
+  {
+    id: "6",
+    name: "Sudheer Kumar Rai",
+    role: "Senior Developer",
+    photo: "/assets/team/Sudheer.jpg",
+    description: "Full Stack Developer with 5+ years of experience in product Development.",
+    linkedin: "https://www.linkedin.com/in/mrsudheer07/"
   }
 ];
 
