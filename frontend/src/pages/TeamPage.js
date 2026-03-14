@@ -72,7 +72,7 @@ const FALLBACK_TEAM = [
     id: "2",
     name: "Vishal Kumar",
     role: "Logistic Head",
-    photo: process.env.PUBLIC_URL + "/assets/team/Vishal.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/vishal.jpg",
     description: "4+ years experience in logistic and supply chain management.",
     linkedin: "https://www.linkedin.com/in/vishal-kumar-006466215/"
   },
@@ -80,7 +80,7 @@ const FALLBACK_TEAM = [
     id: "3",
     name: "Raghvendra Mishra",
     role: "Data Engineer",
-    photo: process.env.PUBLIC_URL + "/assets/team/Raghav.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/raghav.jpg",
     description: "Supply chain optimization expert. Intelligent routing systems.",
     linkedin: "https://www.linkedin.com/in/raghvendra-mishra-57b67a143/"
   },
