@@ -64,7 +64,7 @@ const FALLBACK_TEAM = [
     id: "1",
     name: "Rahu Kumar",
     role: ".Net Developer",
-    photo: "/assets/team/Rahul.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/Rahul.jpg",
     description: "3+ years in distributed systems and enterprise architecture.",
     linkedin: "https://www.linkedin.com/in/rahul-kumar-295346218/"
   },
@@ -72,7 +72,7 @@ const FALLBACK_TEAM = [
     id: "2",
     name: "Vishal Kumar",
     role: "Logistic Head",
-    photo: "/assets/team/Vishal.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/Vishal.jpg",
     description: "4+ years experience in logistic and supply chain management.",
     linkedin: "https://www.linkedin.com/in/vishal-kumar-006466215/"
   },
@@ -80,7 +80,7 @@ const FALLBACK_TEAM = [
     id: "3",
     name: "Raghvendra Mishra",
     role: "Data Engineer",
-    photo: "/assets/team/Raghav.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/Raghav.jpg",
     description: "Supply chain optimization expert. Intelligent routing systems.",
     linkedin: "https://www.linkedin.com/in/raghvendra-mishra-57b67a143/"
   },
@@ -88,7 +88,7 @@ const FALLBACK_TEAM = [
     id: "4",
     name: "Asif Ali",
     role: "Senior Developer",
-    photo: "/assets/team/Asif.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/Asif.jpg",
     description: "Full-stack engineer specializing in Python and React.",
     linkedin: "https://www.linkedin.com/in/asif-ali-frontend-developer/"
   },
@@ -96,7 +96,7 @@ const FALLBACK_TEAM = [
     id: "5",
     name: "Shahanshah Khan",
     role: "Senior Developer",
-    photo: "/assets/team/Shahanshah.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/Shahanshah.jpg",
     description: "Full Stack Developer with 5+ years of experience in web development.",
     linkedin: "https://www.linkedin.com/in/shahanshah-khan-78bb1a159/"
   },
@@ -104,7 +104,7 @@ const FALLBACK_TEAM = [
     id: "6",
     name: "Sudheer Kumar Rai",
     role: "Senior Developer",
-    photo: "/assets/team/Sudheer.jpg",
+    photo: process.env.PUBLIC_URL + "/assets/team/Sudheer.jpg",
     description: "Full Stack Developer with 5+ years of experience in product Development.",
     linkedin: "https://www.linkedin.com/in/mrsudheer07/"
   }
