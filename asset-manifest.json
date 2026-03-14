@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LogiCortex/static/css/main.d7c61f21.css",
-    "main.js": "/LogiCortex/static/js/main.ac875a0f.js",
+    "main.js": "/LogiCortex/static/js/main.bf42df75.js",
     "index.html": "/LogiCortex/index.html",
     "main.d7c61f21.css.map": "/LogiCortex/static/css/main.d7c61f21.css.map",
-    "main.ac875a0f.js.map": "/LogiCortex/static/js/main.ac875a0f.js.map"
+    "main.bf42df75.js.map": "/LogiCortex/static/js/main.bf42df75.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c61f21.css",
-    "static/js/main.ac875a0f.js"
+    "static/js/main.bf42df75.js"
   ]
 }
