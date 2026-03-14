@@ -200,7 +200,7 @@ dist
 # Gatsby files
 .cache/
 # Comment the line below if you intended to commit your git rev commit number with the gatsby-plugin-netlify
-public
+# public
 
 # vue-cli build output
 dist
