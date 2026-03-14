@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { Toaster } from "sonner";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -11,7 +11,7 @@ import ContactPage from "./pages/ContactPage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="min-h-screen bg-background text-foreground relative">
         <div className="grain-overlay" />
         <Navbar />
@@ -37,7 +37,7 @@ function App() {
           }}
         />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
